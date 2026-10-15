@@ -1,0 +1,40 @@
+{
+  "drivers": [
+    {
+      "id": "D001",
+      "name": "Ravi Kumar",
+      "vehicleType": "Truck",
+      "capacity": 10000,
+      "route": "Hyderabad-Vijayawada",
+      "rating": 4.8,
+      "language": "Telugu",
+      "available": true,
+      "lat": 17.385,
+      "lng": 78.486
+    },
+    {
+      "id": "D002",
+      "name": "Suresh Reddy",
+      "vehicleType": "Mini Truck",
+      "capacity": 5000,
+      "route": "Hyderabad-Warangal",
+      "rating": 4.5,
+      "language": "Telugu",
+      "available": true,
+      "lat": 17.4,
+      "lng": 78.47
+    },
+    {
+      "id": "D003",
+      "name": "Amit Singh",
+      "vehicleType": "Truck",
+      "capacity": 12000,
+      "route": "Hyderabad-Nagpur",
+      "rating": 4.7,
+      "language": "Hindi",
+      "available": true,
+      "lat": 17.36,
+      "lng": 78.5
+    }
+  ]
+}
